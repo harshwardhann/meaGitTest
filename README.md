@@ -1,2 +1,2 @@
-# Hello GitHub
+# Hi GitHub
 # Hey GitHub
